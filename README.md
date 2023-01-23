@@ -1,6 +1,4 @@
-<head>
-<title>kodluyoruzdailkwebsayfam</title>
-</head>
+
 <h1>Enis ERDEM</h1> <!--  Başlik olarak adimi ve soyadimi yazdim -->
 <h2>Hakkimda</h2> <!-- Alt başlik olarak Hakkımda yazdım-->
 <!-- alt başlığa hakkımdaki şeyleri paragraf olarak yazdım-->
